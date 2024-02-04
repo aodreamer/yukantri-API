@@ -1,0 +1,647 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:root:User admin added to queue successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:02:13] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:root:User admin added to queue successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:02:14] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:root:User admin logged out successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:02:45] "POST /api/logout HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:root:User admin logged in successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:03:58] "POST /api/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:04:22] "[33mPOST /api/get_number_queue HTTP/1.1[0m" 404 -
+INFO:root:User admin added to queue successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:04:33] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:08:31] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:08:36] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:09:05] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:09:23] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:09:25] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:09:46] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:09:48] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:12:19] "[31m[1mPOST /api/register HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:12:34] "[35m[1mPOST /api/register HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:13:07] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+INFO:root:User user logged in successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:14:13] "POST /api/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:root:User user added to queue successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:15:45] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:root:User user added to queue successfully
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:16:32] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:17:03] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:22:49] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:22:59] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:25:18] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:25:27] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:25:36] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:25:37] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:27:17] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:27:19] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:27:21] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:44:20] "[33mGET /api/data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:44:22] "[33mGET /api/data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:44:31] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\cors_testing\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\cors_testing\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:45:39] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:45:55] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\cors_testing\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 20:47:27] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.92.99 - - [04/Feb/2024 20:47:34] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.92.99 - - [04/Feb/2024 20:47:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:47:58] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:47:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:26] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:30] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:31] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:31] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:32] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:32] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:32] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:38] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:39] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:39] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:39] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:41] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:42] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:43] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:44] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:44] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:192.168.93.202 - - [04/Feb/2024 20:48:44] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:40:18] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:40:26] "POST /api/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:40:46] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:42:23] "GET /user/4 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:42:55] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:43:00] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:44:16] "[33mGET /user/5 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:44:20] "GET /user/6 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:44:25] "GET /user/3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:47:54] "GET /user/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:47:59] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:49:35] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:49:51] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:49:58] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:50:17] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:51:56] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:53:29] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:53:44] "GET /user/3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:54:43] "GET /user/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:54:45] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:55:37] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:55:46] "POST /api/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:55:57] "POST /api/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:56:03] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:56:27] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:56:37] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:57:10] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:59:25] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 21:59:48] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:00:00] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:05:28] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:05:41] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:05:55] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:06:22] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:10:15] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:11:12] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:11:20] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:13:23] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:13:30] "[35m[1mPOST /api/refresh HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:14:24] "[35m[1mPOST /api/refresh HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:14:28] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:15:57] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:17:31] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:17:34] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:18:45] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:18:57] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:04] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:12] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:14] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:26] "[35m[1mPOST /api/refresh HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:38] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:49] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:19:57] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:20:06] "POST /api/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:20:14] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:20:30] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:21:14] "[31m[1mPOST /api/refresh HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:21:34] "[35m[1mPOST /api/refresh HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:21:42] "[35m[1mPOST /api/refresh HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:24:32] "POST /api/refresh HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:25:50] "POST /api/refresh HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:25:59] "POST /api/refresh HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:35:55] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:35:59] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:00] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:00] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:04] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:04] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:05] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:06] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:07] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:08] "[35m[1mPOST /api/get_queue_number HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:08] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:09] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:10] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:11] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:11] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:32] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:36:33] "[31m[1mPOST /api/get_queue_number HTTP/1.1[0m" 429 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:15] "[32mGET /apidocs HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:15] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:15] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:15] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:15] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:15] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:16] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:16] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:16] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:16] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:16] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:44:43] "[31m[1mPOST /api/register HTTP/1.1[0m" 415 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:26] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:46:48] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:00] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:01] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:22] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:52] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:52] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:53] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:53] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:53] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:53] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:53] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:53] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:54] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:48:54] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:49:05] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:49] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:49] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:49] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:49] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:49] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:50] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:50] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:54:50] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:55:31] "[35m[1mPOST /api/register HTTP/1.1[0m" 201 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.99:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:58:40] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 22:58:50] "[31m[1mPOST /api/register HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:02:13] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:44] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:44] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:44] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:03:45] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:02] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:02] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:02] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:02] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:02] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:02] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:03] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:03] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:03] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:03] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:13] "GET /api/view_log HTTP/1.1" 200 -
