@@ -666,3 +666,5 @@ INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:52] "GET /apispec_1.json HTTP/1.1
 INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:52] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
 INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
