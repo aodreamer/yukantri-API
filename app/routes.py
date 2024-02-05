@@ -110,7 +110,7 @@ def register():
     except EmailNotValidError as e:
         return jsonify(message=f'Invalid email: {str(e)}'), 400
 
-    # Tambahkan aturan validasi password sesuai kebutuhan
+    # Tambahkan aturan validasi password
     if len(password) < 8:
         return jsonify(message='Password must be at least 8 characters long'), 400
 

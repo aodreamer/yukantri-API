@@ -645,3 +645,24 @@ INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 116-340-310
 INFO:werkzeug:127.0.0.1 - - [04/Feb/2024 23:06:13] "GET /api/view_log HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.92.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 116-340-310
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "[32mGET /apidocs HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /apidocs/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:51] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:52] "GET /apispec_1.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Feb/2024 08:44:52] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\ASUS\\OneDrive\\Documents\\Kuliah\\SMT 7\\KPL\\API\\yukantri\\app\\routes.py', reloading
+INFO:werkzeug: * Restarting with stat

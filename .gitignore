@@ -2,3 +2,6 @@
 
 # Ignore .env file
 .env
+
+# Ignore app.log
+app.log
